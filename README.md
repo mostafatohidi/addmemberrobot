@@ -1,2 +1,5 @@
-# addmemberrobot
-AAGQ4wOyAdBmg2RBF7L4hcljXNF9wd3W41s
+*bold text*
+_italic text_
+[ نرم افزار مدیریت کانال تلگرام ](URL)
+`inline fixed-width code`
+“`pre-formatted fixed-width code block“`
